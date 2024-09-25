@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+input {
+    padding: 5px;
+     
+}
+
+
+.container {
+    margin: auto;
+    position: relative;
+    margin-top: 60px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    height:50vh;
+    border-radius: 10px;
+    border: 2px solid grey;
+}
+
+button {
+    padding: 20px;
+    margin: 20px 20px;
+}
+
